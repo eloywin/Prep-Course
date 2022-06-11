@@ -68,7 +68,7 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-  return str1.lenght == str2.lenght;
+  return str1.length == str2.length;
 }
 
 function menosQueNoventa(num) {
@@ -194,7 +194,7 @@ function obtenerSaludo(nombre) {
 function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un rectángulo teniendo su altura y ancho
   // Tu código:
-  return ancho * altura;
+  return ancho * alto;
 }
 
 
